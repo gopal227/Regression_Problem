@@ -1,3 +1,3 @@
-#house-price-prediction
+#California_Housing_prediction
 
-Predicting house prices using Linear Regression and Random Forest.
+Step by Step for Predicting house prices using Linear Regression and Random Forest.
